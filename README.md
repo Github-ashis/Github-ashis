@@ -1,3 +1,4 @@
+[![MasterHead](https://www.rcsb.org/3d-view/5CDQ/1)
 <h1 align="center">Hi 👋, I'm Ashis Nandy</h1>
 <h1 align="center">Scientific Manager at Aragen Life Sciences Limited</h1>
 <h3 align="center">Computational Chemist | Integrating Data Science, machine learning and CADD Research for Innovative Solutions</h3>
