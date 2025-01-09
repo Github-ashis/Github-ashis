@@ -10,7 +10,7 @@
 
 - 💡 **Research Intrests 👇**
   
-     - **Artificial Intelligence in Drug discover**. 
+     - **Artificial Intelligence in Drug discovery**. 
      - **Drug Discovery**. 
      - **Data Analysis**. 
      - **Computational Chemistry**.
