@@ -10,9 +10,10 @@
 
 - 💡 **Research Intrests 👇**
   
-     - **Artificial Intelligence in Drug discovery**. 
+     - **PROTAC Modelling**. 
      - **Drug Discovery**. 
-     - **Data Analysis**. 
+     - **Data Analysis**.
+     - **Artificial Intelligence in Drug discovery**. 
      - **Computational Chemistry**.
      - **Pharmacology and Medicinal Chemistry**
 
