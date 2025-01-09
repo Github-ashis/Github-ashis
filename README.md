@@ -1,4 +1,4 @@
-            [![MasterHead](https://ars.els-cdn.com/content/image/1-s2.0-S0048969724001086-ga1.jpg)
+[![MasterHead](https://ars.els-cdn.com/content/image/1-s2.0-S0048969724001086-ga1.jpg)
 <h1 align="center">Hi 👋, I'm Ashis Nandy</h1>
 <h1 align="center">Scientific Manager at Aragen Life Sciences Limited</h1>
 <h3 align="center">Computational Chemist | Integrating Data Science, machine learning and CADD Research for Innovative Solutions</h3>
